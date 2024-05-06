@@ -1,4 +1,4 @@
-![alt text](https://github.com/annieclinton/card-game-war/blob/main/playwar.png)
+![alt text](https://github.com/annieclinton/card-game-war/blob/main/playWar.png)
 
 # Play War
 
