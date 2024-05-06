@@ -4,7 +4,7 @@
 
 This web application allows users to play the classic card game "War" against a computer. Each round, players are dealt two cards—one for the user and one for the computer. The player with the higher card wins the round. In the event of a tie, a "War" occurs, where each player is dealt four additional cards, and the highest fourth card determines the winner of the round.
 
-Link to project: TBD
+Link to project: https://play-war.netlify.app/
 
 ## How It's Made:
 
